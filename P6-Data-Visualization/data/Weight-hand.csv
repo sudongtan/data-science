@@ -1,0 +1,19 @@
+Weight (in pounds),Handedness,No. of players,Average batting average,Average home runs
+<161,Both handed,17,0.24,22.24
+<161,Left handed,17,0.23,63.53
+<161,Right handed,50,0.22,32.96
+161-170,Both handed,21,0.24,13.14
+161-170,Left handed,39,0.24,50.15
+161-170,Right handed,107,0.22,30.96
+171-180,Both handed,27,0.21,44.85
+171-180,Left handed,89,0.22,46.38
+171-180,Right handed,163,0.17,32.21
+181-190,Both handed,23,0.19,29.65
+181-190,Left handed,72,0.21,59.96
+181-190,Right handed,190,0.17,44.76
+191-200,Both handed,13,0.12,41.08
+191-200,Left handed,62,0.18,66.87
+191-200,Right handed,122,0.18,63.36
+>201,Both handed,3,0.2,87.33
+>201,Left handed,37,0.14,57.19
+>201,Right handed,105,0.14,47.13

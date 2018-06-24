@@ -1,0 +1,25 @@
+Height (in inches),Handedness,No. of players,Average batting average,Average home runs
+<70,Both handed,10,0.24,20.6
+<70,Left handed,17,0.23,39.29
+<70,Right handed,32,0.24,26.38
+70,Both handed,10,0.23,31.6
+70,Left handed,30,0.24,32.3
+70,Right handed,72,0.23,43.58
+71,Both handed,17,0.24,42.24
+71,Left handed,38,0.23,62.92
+71,Right handed,90,0.19,41.52
+72,Both handed,27,0.22,24.81
+72,Left handed,69,0.23,63.94
+72,Right handed,136,0.2,34.79
+73,Both handed,17,0.19,39.82
+73,Left handed,58,0.21,55.91
+73,Right handed,119,0.18,50.16
+74,Both handed,18,0.16,28.33
+74,Left handed,44,0.2,74.16
+74,Right handed,118,0.17,61.29
+75,Both handed,3,0,0
+75,Left handed,28,0.19,64.93
+75,Right handed,90,0.14,46.44
+>75,Both handed,2,0.2,123
+>75,Left handed,32,0.09,30.59
+>75,Right handed,80,0.08,19.54
